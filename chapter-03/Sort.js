@@ -16,11 +16,11 @@ let users = [
         age: 33,
     },
     {
-        name: "Mg Mg",
+        name: "Ko Ko",
         age: 18,
     },
     {
-        name: "Mg Mg",
+        name: "Mya Mya",
         age: 25,
     },
 ];
