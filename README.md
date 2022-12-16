@@ -1,4 +1,4 @@
-#Beginning Functional JavaScript
+# Beginning Functional JavaScript
 
 - **Reference Book**
 
