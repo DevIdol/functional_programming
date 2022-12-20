@@ -39,3 +39,6 @@ Result by Gender {
   ]
 }
 */
+
+const value = R.prop('gender', students[0])
+console.log("Gender of Student[0]:", value) //Gender of Student[0]: Male
